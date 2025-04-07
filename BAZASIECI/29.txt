@@ -1,0 +1,6 @@
+X0100
+How will a router handle static routing differently if Cisco Express Forwarding is disabled?
+It will not perform recursive lookups.
+Ethernet multiaccess interfaces will require fully specified static routes to avoid routing inconsistencies.
+Static routes that use an exit interface will be unnecessary.
+Serial point-to-point interfaces will require fully specified static routes to avoid routing inconsistencies.

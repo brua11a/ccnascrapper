@@ -1,0 +1,8 @@
+X100101
+Select the three PAgP channel establishment modes. (Choose three.)
+auto
+default
+passive
+desirable
+extended
+on

@@ -1,0 +1,6 @@
+X1000
+What address and prefix length is used when configuring an IPv6 default static route?
+::/0
+FF02::1/8
+0.0.0/0
+::1/128

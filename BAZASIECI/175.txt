@@ -1,0 +1,6 @@
+X0010
+While attending a conference, participants are using laptops for network connectivity. When a guest speaker attempts to connect to the network, the laptop fails to display any available wireless networks. The access point must be operating in which mode?
+mixed
+passive
+active
+open

@@ -1,0 +1,6 @@
+X0100
+What protocol or technology disables redundant paths to eliminate Layer 2 loops?
+VTP
+STP
+EtherChannel
+DTP

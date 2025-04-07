@@ -1,0 +1,6 @@
+X1000
+What protocol or technology is a Cisco proprietary protocol that is automatically enabled on 2960 switches?
+DTP
+STP
+VTP
+EtherChannel

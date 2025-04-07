@@ -1,0 +1,6 @@
+X0100
+What is the effect of entering the shutdown configuration command on a switch?
+It enables BPDU guard on a specific port.
+It disables an unused port.
+It enables portfast on a specific switch interface.
+It disables DTP on a non-trunking interface.

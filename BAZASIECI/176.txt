@@ -1,0 +1,8 @@
+X100110
+Which three components are combined to form a bridge ID?
+extended system ID
+cost
+IP address
+bridge priority
+MAC address
+port ID

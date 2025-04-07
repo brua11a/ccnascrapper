@@ -1,0 +1,12 @@
+X0100011000
+What two default wireless router settings can affect network security? (Choose two.)
+[img]44.png[/img]
+The SSID is broadcast.
+MAC address filtering is enabled.
+WEP encryption is enabled.
+The wireless channel is automatically selected.
+A well-known administrator password is set.
+traps
+acknowledgments
+auditing
+warnings

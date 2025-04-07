@@ -1,0 +1,3 @@
+X1
+Refer to the exhibit. A Layer 3 switch routes for three VLANs and connects to a router for Internet connectivity. Which two configurations would be applied to the switch? (Choose two.)
+[img]54.png[/img]

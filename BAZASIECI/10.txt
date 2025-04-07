@@ -1,0 +1,3 @@
+X1
+Match the forwarding characteristic to its type. (Not all options are used.)
+[img]10.png[/img]

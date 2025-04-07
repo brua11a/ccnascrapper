@@ -1,0 +1,6 @@
+X0010
+What protocol or technology defines a group of routers, one of them defined as active and another one as standby?
+EtherChannel
+VTP
+HSRP
+DTP

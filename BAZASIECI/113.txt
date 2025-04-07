@@ -1,0 +1,3 @@
+X1
+Match the step number to the sequence of stages that occur during the HSRP failover process. (Not all options are used.)
+[img]113.png[/img]

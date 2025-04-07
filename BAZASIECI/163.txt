@@ -1,0 +1,6 @@
+X0010
+Which term describes the role of a Cisco switch in the 802.1X port-based access control?
+agent
+supplicant
+authenticator
+authentication server

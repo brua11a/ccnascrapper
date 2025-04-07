@@ -1,0 +1,7 @@
+X00100
+Refer to the exhibit. An administrator is attempting to install an IPv6 static route on router R1 to reach the network attached to router R2. After the static route command is entered, connectivity to the network is still failing. What error has been made in the static route configuration?
+[img]149.png[/img]
+The next hop address is incorrect.
+The interface is incorrect.
+The destination network is incorrect.
+The network prefix is incorrect.

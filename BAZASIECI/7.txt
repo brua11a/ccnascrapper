@@ -1,0 +1,6 @@
+X0010
+A cybersecurity analyst is using the macof tool to evaluate configurations of switches deployed in the backbone network of an organization. Which type of LAN attack is the analyst targeting during this evaluation?
+VLAN hopping
+DHCP spoofing
+MAC address table overflow
+VLAN double-tagging

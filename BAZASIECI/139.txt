@@ -1,0 +1,7 @@
+X11000
+What are two switch characteristics that could help alleviate network congestion? (Choose two.)
+fast internal switching
+large frame buffers
+store-and-forward switching
+low port density
+frame check sequence (FCS) check

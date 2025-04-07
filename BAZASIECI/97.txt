@@ -1,0 +1,6 @@
+X0100
+What protocol or technology uses source IP to destination IP as a load-balancing mechanism?
+VTP
+EtherChannel
+DTP
+STP

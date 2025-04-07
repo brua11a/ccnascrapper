@@ -1,0 +1,6 @@
+X0010
+What protocol or technology requires switches to be in server mode or client mode?
+EtherChannel
+STP
+VTP
+DTP

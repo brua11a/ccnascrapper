@@ -1,0 +1,6 @@
+X1000
+What is a method to launch a VLAN hopping attack?
+introducing a rogue switch and enabling trunking
+sending spoofed native VLAN information
+sending spoofed IP addresses from the attacking host
+flooding the switch with MAC addresses

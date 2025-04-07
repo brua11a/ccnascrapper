@@ -1,0 +1,7 @@
+X00011
+Which two protocols are used to provide server-based AAA authentication? (Choose two.)
+1x
+SSH
+SNMP
+TACACS+
+RADIUS

@@ -1,0 +1,8 @@
+X010000
+Refer to the exhibit. Host A has sent a packet to host B. What will be the source MAC and IP addresses on the packet when it arrives at host B?
+[img]21.png[/img]
+Source MAC: 00E0.FE91.7799Source IP: 10.1.1.10
+Source MAC: 00E0.FE10.17A3Source IP: 10.1.1.10
+Source MAC: 00E0.FE10.17A3Source IP: 192.168.1.1
+Source MAC: 00E0.FE91.7799Source IP: 10.1.1.1
+Source MAC: 00E0.FE91.7799Source IP: 192.168.1.1

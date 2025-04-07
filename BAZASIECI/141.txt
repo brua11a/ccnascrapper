@@ -1,0 +1,6 @@
+X0100
+Branch users were able to access a site in the morning but have had no connectivity with the site since lunch time. What should be done or checked?
+Verify that the static route to the server is present in the routing table.
+Use the “show ip interface brief” command to see if an interface is down.
+Check the configuration on the floating static route and adjust the AD.
+Create a floating static route to that network.

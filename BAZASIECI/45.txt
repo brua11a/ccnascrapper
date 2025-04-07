@@ -1,0 +1,6 @@
+X0010
+A network administrator is adding a new WLAN on a Cisco 3500 series WLC. Which tab should the administrator use to create a new VLAN interface to be used for the new WLAN?
+WIRELESS
+MANAGEMENT
+CONTROLLER
+WLANs

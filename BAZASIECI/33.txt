@@ -1,0 +1,6 @@
+X0001
+What is the IPv6 prefix that is used for link-local addresses?
+FF01::/8
+2001::/3
+FC00::/7
+FE80::/10

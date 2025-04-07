@@ -1,0 +1,7 @@
+X00100
+What is the purpose of this command?
+[img]22.png[/img]
+Packets that are received from the Internet will be forwarded to one of the LANs connected to R1 or R2.
+Packets with a destination network that is not 10.10.0.0/16 or is not 10.20.0.0/16 or is not a directly connected network will be forwarded to the Internet.
+Packets from the 10.10.0.0/16 network will be forwarded to network 10.20.0.0/16, and packets from the 10.20.0.0/16 network will be forwarded to network 10.10.0.0/16.
+Packets that are destined for networks that are not in the routing table of HQ will be dropped.

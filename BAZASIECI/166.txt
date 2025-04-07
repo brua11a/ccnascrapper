@@ -1,0 +1,6 @@
+X0010
+What protocol or technology uses a standby router to assume packet-forwarding responsibility if the active router fails?
+EtherChannel
+DTP
+HSRP
+VTP

@@ -1,0 +1,8 @@
+X010010
+What are two reasons a network administrator would segment a network with a Layer 2 switch? (Choose two.)
+to create fewer collision domains
+to enhance user bandwidth
+to create more broadcast domains
+to eliminate virtual circuits
+to isolate traffic between segments
+to isolate ARP request messages from the rest of the network

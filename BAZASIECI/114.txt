@@ -1,0 +1,6 @@
+X1000
+On a Cisco 3504 WLC Summary page ( Advanced > Summary ), which tab allows a network administrator to configure a particular WLAN with a WPA2 policy?
+WLANs
+SECURITY
+WIRELESS
+MANAGEMENT

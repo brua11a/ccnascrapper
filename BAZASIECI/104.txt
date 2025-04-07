@@ -1,0 +1,3 @@
+X1
+Match the DHCP message types to the order of the DHCPv4 process. (Not all options are used.)
+[img]104.png[/img]

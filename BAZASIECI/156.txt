@@ -1,0 +1,6 @@
+X0001
+What IPv6 prefix is designed for link-local communication?
+2001::/3
+ff00::/8
+fc::/07
+fe80::/10

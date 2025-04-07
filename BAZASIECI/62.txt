@@ -1,0 +1,6 @@
+X1000
+What protocol or technology allows data to transmit over redundant switch links?
+EtherChannel
+DTP
+STP
+VTP

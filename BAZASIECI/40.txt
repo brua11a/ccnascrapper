@@ -1,0 +1,6 @@
+X1000
+A static route has been configured on a router. However, the destination network no longer exists. What should an administrator do to remove the static route from the routing table?
+Remove the route using the no ip route command.
+Change the administrative distance for that route.
+Change the routing metric for that route.
+Nothing. The static route will go away on its own.

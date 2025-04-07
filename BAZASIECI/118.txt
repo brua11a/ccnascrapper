@@ -1,0 +1,6 @@
+X0010
+A network administrator is configuring a WLAN. Why would the administrator use a WLAN controller?
+to centralize management of multiple WLANs
+to provide privacy and integrity to wireless traffic by using encryption
+to facilitate group configuration and management of multiple WLANs through a WLC
+to provide prioritized service for time-sensitive applications

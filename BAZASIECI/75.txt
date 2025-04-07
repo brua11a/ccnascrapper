@@ -1,0 +1,6 @@
+X0100
+Which mitigation technique would prevent rogue servers from providing false IP configuration parameters to clients?
+implementing port security
+turning on DHCP snooping
+disabling CDP on edge ports
+implementing port-security on edge ports

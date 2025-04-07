@@ -1,0 +1,9 @@
+X0011010
+Refer to the exhibit. Which three hosts will receive ARP requests from host A, assuming that port Fa0/4 on both switches is configured to carry traffic for multiple VLANs? (Choose three.)
+[img]63.png[/img]
+host B
+host C
+host D
+host E
+host F
+host G

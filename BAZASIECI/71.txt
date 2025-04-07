@@ -1,0 +1,7 @@
+X00100
+Refer to the exhibit. Which trunk link will not forward any traffic after the root bridge election process is complete?
+[img]71.png[/img]
+Trunk1
+Trunk2
+Trunk3
+Trunk4

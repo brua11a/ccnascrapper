@@ -1,0 +1,6 @@
+X1000
+Which statement is correct about how a Layer 2 switch determines how to forward frames?
+Frame forwarding decisions are based on MAC address and port mappings in the CAM table.
+Only frames with a broadcast destination address are forwarded out all active switch ports.
+Unicast frames are always forwarded regardless of the destination MAC address.
+Cut-through frame forwarding ensures that invalid frames are always dropped.

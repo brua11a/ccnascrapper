@@ -1,0 +1,6 @@
+X0010
+What protocol or technology manages trunk negotiations between switches?
+VTP
+EtherChannel
+DTP
+STP

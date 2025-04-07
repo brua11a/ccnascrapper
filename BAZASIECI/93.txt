@@ -1,0 +1,7 @@
+X00000
+Match each DHCP message type with its description. (Not all options are used.)
+[img]93.png[/img]
+a client initiating a message to find a DHCP server – DHCPDISCOVER
+a DHCP server responding to the initial request by a client – DHCPOFFER
+the client accepting the IP address provided by the DHCP server – DHCPREQUEST
+the DHCP server confirming that the lease has been accepted – DHCPACK

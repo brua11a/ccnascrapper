@@ -1,0 +1,8 @@
+X000011
+Which two VTP modes allow for the creation, modification, and deletion of VLANs on the local switch? (Choose two.)
+client
+master
+distribution
+slave
+server
+transparent

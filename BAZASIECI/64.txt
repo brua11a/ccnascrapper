@@ -1,0 +1,8 @@
+X001000
+Refer to the exhibit. The network administrator configures both switches as displayed. However, host C is unable to ping host D and host E is unable to ping host F. What action should the administrator take to enable this communication?
+[img]64.png[/img]
+Associate hosts A and B with VLAN 10 instead of VLAN 1.
+Configure either trunk port in the dynamic desirable mode.
+Include a router in the topology.
+Remove the native VLAN from the trunk.
+Add the switchport nonegotiate command to the configuration of SW2.

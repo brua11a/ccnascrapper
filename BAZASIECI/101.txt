@@ -1,0 +1,6 @@
+X0010
+What command will enable a router to begin sending messages that allow it to configure a link-local address without using an IPv6 DHCP server?
+a static route
+the ipv6 route ::/0 command
+the ipv6 unicast-routing command
+the ip routing command

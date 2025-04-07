@@ -1,0 +1,7 @@
+X01000
+Refer to the exhibit. What are the possible port roles for ports A, B, C, and D in this RSTP-enabled network?
+[img]82.png[/img]
+alternate, designated, root, root
+designated, alternate, root, root
+alternate, root, designated, root
+designated, root, alternate, root

@@ -1,0 +1,7 @@
+X10001
+A technician is configuring a wireless network for a small business using a SOHO wireless router. Which two authentication methods are used, if the router is configured with WPA2? (Choose two.)
+personal
+AES
+TKIP
+WEP
+enterprise

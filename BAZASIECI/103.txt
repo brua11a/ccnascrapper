@@ -1,0 +1,8 @@
+X001011
+What are three techniques for mitigating VLAN attacks? (Choose three.)
+Use private VLANs.
+Enable BPDU guard.
+Enable trunking manually
+Enable Source Guard.
+Disable DTP.
+Set the native VLAN to an unused VLAN.

@@ -1,0 +1,6 @@
+X1000
+Which wireless encryption method is the most secure?
+WPA2 with AES
+WPA2 with TKIP
+WEP
+WPA

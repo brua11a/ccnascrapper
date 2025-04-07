@@ -1,0 +1,6 @@
+X0100
+Which method of IPv6 prefix assignment relies on the prefix contained in RA messages?
+EUI-64
+SLAAC
+static
+stateful DHCPv6

@@ -1,0 +1,6 @@
+X0001
+A network administrator is configuring a WLAN. Why would the administrator use multiple lightweight APs?
+to centralize management of multiple WLANs
+to monitor the operation of the wireless network
+to provide prioritized service for time-sensitive applications
+to facilitate group configuration and management of multiple WLANs through a WLC

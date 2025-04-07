@@ -1,0 +1,3 @@
+X1
+Match the purpose with its DHCP message type. (Not all options are used.)
+[img]89.png[/img]

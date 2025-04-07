@@ -1,0 +1,6 @@
+X0010
+What is the effect of entering theip dhcp snooping limit rate 6configuration command on a switch?
+It displays the IP-to-MAC address associations for switch interfaces.
+It enables port security globally on the switch.
+It restricts the number of discovery messages, per second, to be received on the interface.
+It dynamically learns the L2 address and copies it to the running configuration.

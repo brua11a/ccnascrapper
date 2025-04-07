@@ -1,0 +1,6 @@
+X1000
+Employees are unable to connect to servers on one of the internal networks. What should be done or checked?
+Use the “show ip interface brief” command to see if an interface is down.
+Verify that there is not a default route in any of the edge router routing tables.
+Create static routes to all internal networks and a default route to the internet.
+Check the statistics on the default route for oversaturation.

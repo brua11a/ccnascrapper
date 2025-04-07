@@ -1,0 +1,6 @@
+X1001
+Compared with dynamic routes, what are two advantages of using static routes on a router? (Choose two.)
+They improve netw​ork security.
+They take less time to converge when the network topology changes.
+They improve the efficiency of discovering neighboring networks.
+They use fewer router resources.

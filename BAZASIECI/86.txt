@@ -1,0 +1,6 @@
+X0100
+Which DHCPv4 message will a client send to accept an IPv4 address that is offered by a DHCP server?
+broadcast DHCPACK
+broadcast DHCPREQUEST
+unicast DHCPACK
+unicast DHCPREQUEST

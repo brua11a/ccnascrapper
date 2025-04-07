@@ -1,0 +1,7 @@
+X01110
+Which three Wi-Fi standards operate in the 2.4GHz range of frequencies? (Choose three.)
+11a
+11b
+11g
+11n
+11ac

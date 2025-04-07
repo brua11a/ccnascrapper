@@ -1,0 +1,8 @@
+X010101
+Switching, Routing, and Wireless Essentials ( Version 7.00) – SRWE Final Exam
+Three security violations have been detected on this interface.
+This port is currently up.
+The port is configured as a trunk link.
+Security violations will cause this port to shut down immediately.
+There is no device currently connected to this port.
+The switch port mode for this interface is access mode.

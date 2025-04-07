@@ -1,0 +1,6 @@
+X1000
+Which Cisco solution helps prevent ARP spoofing and ARP poisoning attacks?
+Dynamic ARP Inspection
+IP Source Guard
+DHCP Snooping
+Port Security

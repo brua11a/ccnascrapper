@@ -1,0 +1,9 @@
+X0100101
+A new Layer 3 switch is connected to a router and is being configured for interVLAN routing. What are three of the five steps required for the configuration? (Choose three.)Case 7 (NEW):
+installing a static route
+enabling IP routing
+modifying the default VLAN
+implementing a routing protocol
+assigning ports to VLANs
+assigning the ports to the native VLAN
+creating SVI interfaces

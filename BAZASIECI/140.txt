@@ -1,0 +1,6 @@
+X0100
+What is a result of connecting two or more switches together?
+The number of broadcast domains is increased.
+The size of the broadcast domain is increased.
+The number of collision domains is reduced.
+The size of the collision domain is increased.

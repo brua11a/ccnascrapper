@@ -1,0 +1,8 @@
+X101010
+A network administrator is configuring a new Cisco switch for remote management access. Which three items must be configured on the switch for the task? (Choose three.)
+IP address
+VTP domain
+vty lines
+default VLAN
+default gateway
+loopback address

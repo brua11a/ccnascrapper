@@ -1,0 +1,7 @@
+X00011
+Which two functions are performed by a WLC when using split media access control (MAC)? (Choose two.)
+packet acknowledgments and retransmissions
+frame queuing and packet prioritization
+beacons and probe responses
+frame translation to other protocols
+association and re-association of roaming clients
